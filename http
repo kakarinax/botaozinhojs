@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title> </title>
+
+</head>
+<body>
+
+		<p> MENSAGEM 1</p>
+		<p> MENSAGEM 2</p>
+		<button id="azul"> Azul</button>
+		<button id="vermelho"> Vermelho </button>
+		<span id="mensagem"></span>
+
+	<footer> 
+
+		<script src="jquery.js"></script>
+		<script src="script-jquery.js"></script>
+
+	</footer>
+
+</body>
+
+</html>
